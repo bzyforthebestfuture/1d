@@ -1,0 +1,16 @@
+In file included from /home/fjjt/Desktop/iesdcontest2024_demo_example_evaluation/tensorflow/lite/conv1d.cc:5:
+
+/home/fjjt/Downloads/iesdcontest2024_demo_example_evaluation/tensorflow/lite/c/common.h:31:10: fatal error: tensorflow/lite/core/c/common.h: No such file or directory
+
+   31 | #include "tensorflow/lite/core/c/common.h"
+
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+compilation terminated.
+
+make[2]: *** [CMakeFiles/conv1d.dir/build.make:76: CMakeFiles/conv1d.dir/conv1d.cc.o] Error 1
+
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/conv1d.dir/all] Error 2
+
+make: *** [Makefile:91: all] Error 2
+
